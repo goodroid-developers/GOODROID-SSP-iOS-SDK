@@ -1,4 +1,4 @@
-# Geniee iOS SDK
+# GOODROID iOS SDK
 
 ## [日本語](SDK-Manual-ja.md)
 
