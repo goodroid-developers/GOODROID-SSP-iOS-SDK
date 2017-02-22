@@ -9,9 +9,7 @@ GOODROID SSP iOS SDK は、iOS アプリケーション内に広告を表示す�
 
 ## ダウンロード
 
-以下の URL から GOODROID SSP iOS SDK をダウンロードします。
-
-- **[Geniee-iOS-SDK](https://github.com/goodroid-developers/GOODROID-SSP-iOS-SDK/releases)**
+リポジトリのトップからGOODROID SSP iOS SDK をCloneもしくはZipダウンロードします。
 
 ## 組み込み手順
 
