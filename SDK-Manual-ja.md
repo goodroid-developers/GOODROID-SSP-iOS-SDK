@@ -1,6 +1,6 @@
-# Geniee iOS SDK
+# GOODROID SSP iOS SDK
 
-Geniee iOS SDK は、iOS アプリケーション内に広告を表示するための Ad SDK です。
+GOODROID SSP iOS SDK は、iOS アプリケーション内に広告を表示するための Ad SDK です。
 
 以下の機能を備えています。  
 - 広告の表示
@@ -9,18 +9,18 @@ Geniee iOS SDK は、iOS アプリケーション内に広告を表示するた�
 
 ## ダウンロード
 
-以下の URL から Geniee iOS SDK をダウンロードします。
+以下の URL から GOODROID SSP iOS SDK をダウンロードします。
 
-- **[Geniee-iOS-SDK](https://github.com/geniee-ssp/Geniee-iOS-SDK/releases)**
+- **[Geniee-iOS-SDK](https://github.com/goodroid-developers/GOODROID-SSP-iOS-SDK/releases)**
 
 ## 組み込み手順
 
 組み込み手順は、以下のドキュメントを参照してください。  
-<https://github.com/geniee-ssp/Geniee-iOS-SDK/wiki>
+<https://github.com/goodroid-developers/GOODROID-SSP-iOS-SDK/wiki>
 
 ## バージョン新機能
 
-[変更履歴](https://github.com/geniee-ssp/Geniee-iOS-SDK/blob/master/CHANGELOG.md) を参照してください。
+[変更履歴](https://github.com/goodroid-developers/GOODROID-SSP-iOS-SDK/blob/master/CHANGELOG.md) を参照してください。
 
 ## 動作要件
 
